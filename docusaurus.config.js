@@ -169,11 +169,10 @@ const config = {
     v4: true,
   },
 
-  url: "https://your-docusaurus-site.example.com",
-  baseUrl: "/",
-
-  organizationName: "facebook",
-  projectName: "docusaurus",
+  url: "https://jkhan3232.github.io",
+  baseUrl: "/trimlink-docs/",
+  organizationName: "Jkhan3232",
+  projectName: "trimlink-docs",
 
   // ✅ Change: Fail on broken links → Warn instead
   onBrokenLinks: "warn",
